@@ -1,0 +1,31 @@
+EmployeeID,FirstName,LastName,Department,Position,HireDate,Salary,Manager,Location,PerformanceRating
+E001,Sarah,Johnson,Sales,Senior Sales Representative,2019-03-15,75000,Michael Brown,New York,5
+E002,Michael,Chen,Sales,Sales Representative,2020-06-01,65000,Michael Brown,Atlanta,4
+E003,Emily,Rodriguez,Sales,Sales Representative,2021-01-10,62000,Michael Brown,Boston,4
+E004,David,Martinez,Sales,Sales Representative,2020-09-20,68000,Michael Brown,Los Angeles,5
+E005,Michael,Brown,Sales,Sales Manager,2017-02-01,95000,Jennifer Davis,New York,5
+E006,Jennifer,Davis,Executive,Chief Executive Officer,2015-01-01,200000,,New York,5
+E007,Robert,Wilson,IT,IT Manager,2016-05-15,90000,Jennifer Davis,San Francisco,4
+E008,Lisa,Anderson,IT,Senior Developer,2018-07-22,85000,Robert Wilson,San Francisco,5
+E009,James,Taylor,IT,Developer,2021-03-10,70000,Robert Wilson,San Francisco,4
+E010,Maria,Garcia,IT,Developer,2022-01-15,68000,Robert Wilson,Austin,3
+E011,Thomas,Moore,IT,Systems Administrator,2019-11-05,72000,Robert Wilson,San Francisco,4
+E012,Patricia,Lee,Finance,Finance Manager,2016-08-20,92000,Jennifer Davis,Chicago,5
+E013,Christopher,White,Finance,Senior Accountant,2018-04-12,78000,Patricia Lee,Chicago,4
+E014,Jessica,Harris,Finance,Accountant,2020-10-01,65000,Patricia Lee,Chicago,4
+E015,Daniel,Martin,Finance,Financial Analyst,2021-06-15,70000,Patricia Lee,Chicago,3
+E016,Amanda,Thompson,HR,HR Manager,2017-09-10,88000,Jennifer Davis,New York,5
+E017,Matthew,Robinson,HR,HR Specialist,2019-12-03,65000,Amanda Thompson,New York,4
+E018,Sarah,Clark,HR,Recruiter,2021-08-20,62000,Amanda Thompson,Boston,4
+E019,Kevin,Lewis,Marketing,Marketing Manager,2018-01-25,90000,Jennifer Davis,Los Angeles,4
+E020,Michelle,Walker,Marketing,Marketing Specialist,2020-02-14,68000,Kevin Lewis,Los Angeles,4
+E021,Brian,Hall,Marketing,Content Creator,2021-11-08,64000,Kevin Lewis,Austin,3
+E022,Laura,Allen,Marketing,Social Media Manager,2020-07-30,70000,Kevin Lewis,Los Angeles,5
+E023,Jason,Young,Operations,Operations Manager,2017-04-18,87000,Jennifer Davis,Atlanta,4
+E024,Angela,King,Operations,Operations Coordinator,2019-08-22,66000,Jason Young,Atlanta,4
+E025,Ryan,Wright,Operations,Logistics Specialist,2022-02-10,62000,Jason Young,Atlanta,3
+E026,Nicole,Lopez,Customer Service,Customer Service Manager,2018-06-05,82000,Jennifer Davis,Boston,5
+E027,Steven,Hill,Customer Service,Customer Service Rep,2020-11-12,58000,Nicole Lopez,Boston,4
+E028,Rachel,Scott,Customer Service,Customer Service Rep,2021-04-28,56000,Nicole Lopez,Boston,4
+E029,Eric,Green,Customer Service,Customer Service Rep,2022-03-15,55000,Nicole Lopez,Boston,3
+E030,Melissa,Adams,Product,Product Manager,2017-10-20,95000,Jennifer Davis,San Francisco,5
