@@ -3,67 +3,6 @@
 This directory contains sample datasets that you can use to practice building reports in Power BI and working with Microsoft Fabric.
 
 ## Available Datasets
-
-### 1. Sales Data (sales-data.csv)
-
-A sample dataset containing sales transactions with the following columns:
-- **OrderID**: Unique identifier for each order
-- **OrderDate**: Date when the order was placed
-- **CustomerID**: Unique identifier for the customer
-- **CustomerName**: Name of the customer
-- **Product**: Product name
-- **Category**: Product category
-- **Quantity**: Number of units sold
-- **UnitPrice**: Price per unit
-- **TotalAmount**: Total transaction amount
-- **Region**: Geographic region
-- **SalesRep**: Sales representative name
-
-**Use Cases:**
-- Creating sales dashboards
-- Time series analysis
-- Customer segmentation
-- Regional performance analysis
-
-### 2. Employee Data (employee-data.csv)
-
-A sample dataset containing employee information with the following columns:
-- **EmployeeID**: Unique identifier for each employee
-- **FirstName**: Employee's first name
-- **LastName**: Employee's last name
-- **Department**: Department name
-- **Position**: Job title
-- **HireDate**: Date of hire
-- **Salary**: Annual salary
-- **Manager**: Manager's name
-- **Location**: Office location
-- **PerformanceRating**: Performance rating (1-5)
-
-**Use Cases:**
-- HR analytics
-- Organizational structure visualization
-- Compensation analysis
-- Performance tracking
-
-### 3. Product Inventory (product-inventory.csv)
-
-A sample dataset containing product inventory information with the following columns:
-- **ProductID**: Unique identifier for each product
-- **ProductName**: Name of the product
-- **Category**: Product category
-- **Supplier**: Supplier name
-- **UnitsInStock**: Current stock level
-- **ReorderLevel**: Minimum stock level before reorder
-- **UnitPrice**: Price per unit
-- **LastRestockDate**: Date of last restock
-- **Warehouse**: Warehouse location
-
-**Use Cases:**
-- Inventory management dashboards
-- Stock level monitoring
-- Supplier performance analysis
-- Reorder alerts
-
 ## How to Use These Datasets
 
 ### In Power BI Desktop
